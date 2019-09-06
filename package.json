@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~8.2.3",
     "@angular/platform-browser-dynamic": "~8.2.3",
     "@angular/router": "~8.2.3",
+    "@ngneat/transloco": "^1.6.0",
+    "@ngneat/transloco-persist-lang": "^1.0.0",
+    "@ngneat/transloco-persist-translations": "^1.0.0",
+    "localforage": "^1.7.3",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
